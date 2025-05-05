@@ -1,3 +1,3 @@
 # Git-tutorial
 This is for test purpose
-Author - Saket Sourav
+Author - Saket
